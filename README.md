@@ -1,2 +1,2 @@
 # Excel-Assignments
-Inclueds excel practise and business analysis worksheets
+Includes excel practise and business analysis worksheets
